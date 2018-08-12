@@ -43,17 +43,18 @@ var HTMLprojectDescription = '<p><br>%data%</p>';
 var HTMLprojectImage = '<img src="%data%">';
 
 var HTMLschoolStart = '<div class="education-entry"></div>';
-var HTMLschoolName = '<a class="shool" href="#">%data%';
+var HTMLschoolName = '<a class="school" href="https://narfu.ru/en/">%data%';
 var HTMLschoolDegree = ' - %data%</a>';
 var HTMLschoolDates = '<div class="date-text">%data%</div>';
 var HTMLschoolLocation = '<div class="location-text">%data%</div>';
 var HTMLschoolMajor = '<em><br>Major: %data%</em>';
+var HTMLschoolURL = '<br><a href="https://narfu.ru/en/">%data%</a>';
 
 var HTMLonlineClasses = '<h3>Online Classes</h3><div class="online-classes"></div>';
-var HTMLonlineTitle = '<a class="online" href="#">%data%';
+var HTMLonlineTitle = '<a class="online" href="https://www.udacity.com">%data%';
 var HTMLonlineSchool = ' - %data%</a>';
 var HTMLonlineDates = '<div class="date-text">%data%</div>';
-var HTMLonlineURL = '<br><a href="#">%data%</a>';
+var HTMLonlineURL = '<br><a href="https://www.udacity.com">%data%</a>';
 
 var internationalizeButton = '<button>Internationalize</button>';
 var googleMap = '<div id="map"></div>';

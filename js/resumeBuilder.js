@@ -51,22 +51,22 @@ bio.display = function () {
 const work = {
 	"jobs": [
 		{
-			"employer": "Udacity",
-			"title": "Front-End Developer",
+			"employer": "Work From Home",
+			"title": "Front-End Web Developer",
 			"location": "Gdansk, Poland",
 			"dates": "2018",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem."
 		},
 		{
 			"employer": "OMNISystem",
-			"title": "Director",
+			"title": "Business owner",
 			"location": "Warszawa, Poland",
 			"dates": "2014",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem."
 		},
 		{
 			"employer": "SMARTGLONASS Ltd.",
-			"title": "Director",
+			"title": "Business owner",
 			"location": "Kotlas, Rusia",
 			"dates": "2012",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem."
@@ -95,17 +95,17 @@ work.display = function () {
 const education = {
 	"schools": [
 		{
-			"name": "Archangelsk University of Technology",
+			"name": "Arkhangelsk State Technical University",
 			"location": "Archangelsk, Rusia",
 			"degree": "Engineer",
 			"majors": ["Construction and Research of Motor Vehicles"],
 			"dates": "2005",
-			"url": "https://www.qqq.com"
+			"url": "https://narfu.ru/en/"
 		}
 	],
 	"onlineCourses": [
 		{
-			"title": "FEWD",
+			"title": "Front-End Web Developer",
 			"school": "Udacity",
 			"dates": "2018",
 			"url": "https://www.udacity.com"
@@ -121,10 +121,10 @@ education.display = function () {
 		const formatteDegree = HTMLschoolDegree.replace("%data%", education.schools[i].degree);
 		const formatteMajors = HTMLschoolMajor.replace("%data%", education.schools[i].majors);
 		const formatteDates = HTMLschoolDates.replace("%data%", education.schools[i].dates);
-		const formatteUrl = HTMLprojectTitle.replace("%data%", education.schools[i].url);
+		const formatteUrl = HTMLschoolURL.replace("%data%", education.schools[i].url);
 		$("#education").append(HTMLschoolStart);
 		$(".education-entry").append(formatteName);
-		$(".education-entry .school").append(formatteDegree);
+		$(".education-entry a.school").append(formatteDegree);
 		$(".education-entry").append(formatteDates);
 		$(".education-entry").append(formatteLocation);
 		$(".education-entry").append(formatteMajors);
@@ -139,7 +139,7 @@ education.display = function () {
 		const formatteOnlineURL = HTMLonlineURL.replace("%data%", education.onlineCourses[i].url);
 		$("#education").append(HTMLonlineClasses);
 		$(".online-classes").append(formatteOnlineTitle);
-		$(".online-classes .online").append(formatteOnlineSchool);
+		$(".online-classes a.online").append(formatteOnlineSchool);
 		$(".online-classes").append(formatteOnlineDates);
 		$(".online-classes").append(formatteOnlineURL);
 	}
