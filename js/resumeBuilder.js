@@ -149,21 +149,21 @@ education.display = function () {
 const projects = {
 	"projects": [
 		{
-			"title": "title",
+			"title": "Memory game",
 			"dates": "2017",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem.",
-			"images": "images/gm_small.png"
+			"description": "Dependencies <br>I create this game using my own dom methods to keep the code clean. It does not depend on third-party libraries. No more jQuery and Boostrap. Just HTML, CSS and JavaScript! I find that the new Udacity courses on ES6 are amazing! <br>Instructions <br>The game is built using simple HTML, CSS and JavaScript. Click on the map to open it. Maps will be flipped if the next card does not match the open one. Your score will depend on the moves taken to open all the cards. The less moves, the better. <a href='https://guschins.github.io/fend-project-memory-game/'>Playing</a> <a href='https://github.com/GuschinS/fend-project-memory-game'>See code</a>",
+			"images": "images/gm1_198x204.png"
 		},
 		{
-			"title": "title2",
+			"title": "Pixel Art Maker",
 			"dates": "2018",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem.",
-			"images": "images/pam_195x156.png"
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem.<a href='https://guschins.github.io/project-pixel-art-maker/'>Playing</a> <a href='https://github.com/GuschinS/project-pixel-art-maker'>See code</a>",
+			"images": "images/pam1_198x206.png"
 		},
 				{
-			"title": "title3",
+			"title": "Classic Arcade Game Clone",
 			"dates": "2018",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem.",
+			"description": "Instructions <br>The player must go to the top, avoiding a collision with the bugs. In a collision, the player loses 1 life. 3 collisions - the end of the game. When a player reaches the top, he gets 10 points and returns to the starting position. Each time, the speed of beetles increases. <a href='https://guschins.github.io/frontend-nanodegree-arcade-game/'>Playing</a> <a href='https://github.com/GuschinS/frontend-nanodegree-arcade-game/tree/master'>See code</a>",
 			"images": "images/ag_small.png"
 		}
 
