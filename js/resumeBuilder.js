@@ -14,8 +14,8 @@ const bio = {
 	},
 	"welcomeMessage": "Hello I'm Sergei and I am a Front-End Web Developer",
 	"skills": ["Languages: JavaScript, HTML5, CSS3.",
-              "Frameworks/library: jQuery, Bootstrap, Grunt.",
-              "Other: Git/GitHub, Brackets."],
+              "Frameworks/library: jQuery, Angular, Ember, Bootstrap, Grunt.",
+              "Other: Git/GitHub, AJAX, Brackets."],
 	"biopic": "images/fry.jpg"
 };
 
