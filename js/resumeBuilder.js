@@ -16,7 +16,7 @@ const bio = {
 	"skills": ["Languages: JavaScript, HTML5, CSS3.",
               "Frameworks/library: jQuery, Angular, Ember, Bootstrap, Grunt.",
               "Other: Git/GitHub, AJAX, Brackets."],
-	"biopic": "images/fry.jpg"
+	"biopic": "images/sg1.jpg"
 };
 
 
