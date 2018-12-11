@@ -159,7 +159,7 @@ const projects = {
             "title": "MyReads Project",
             "dates": "2018",
             "description": "This is myreads web project for Udacity FEWD Nanodegree. The bookshelf application allows you to select and classify the books you have read, are currently reading or want to read.<br>To run locally:<br>git clone https://github.com/GuschinS/reactnd-project-myreads.git<br>cd reactnd-project-myreads<br>npm install<br>npm start<br><a href='https://github.com/GuschinS/reactnd-project-myreads'>See code</a>",
-            "images": "images/myreads_small.png"
+            "images": "images/MyReads_small.png"
 		},
         {
             "title": "Pixel Art Maker",
