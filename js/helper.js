@@ -16,12 +16,12 @@ var HTMLheaderName = '<h1 id="name">%data%</h1>';
 var HTMLheaderRole = '<span>%data%</span><hr>';
 
 var HTMLcontactGeneric = '<li class="flex-item"><span class="orange-text">%contact%</span><span class="white-text">%data%</span></li>';
-var HTMLmobile = '<li class="flex-item"><span class="orange-text">mobile</span><span class="white-text">%data%</span></li>';
-var HTMLemail = '<li class="flex-item"><span class="orange-text">email</span><span class="white-text">%data%</span></li>';
-var HTMLtwitter = '<li class="flex-item"><span class="orange-text">twitter</span><span class="white-text">%data%</span></li>';
-var HTMLgithub = '<li class="flex-item"><span class="orange-text">github</span><span class="white-text">%data%</span></li>';
+var HTMLmobile = '<a href="tel:+48797807995"><li class="flex-item"><span class="orange-text">mobile</span><span class="white-text">%data%</span></li></a>';
+var HTMLemail = '<a href="mailto:guschins@gmail.com"><li class="flex-item"><span class="orange-text">email</span><span class="white-text">%data%</span></li></a>';
+var HTMLlinkedin = '<a href="https://www.linkedin.com/in/sergei-gushchin/"><li class="flex-item"><span class="orange-text">linkedin</span><span class="white-text">%data%</span></li>';
+var HTMLgithub = '<a href="https://github.com/GuschinS"><li class="flex-item"><span class="orange-text">github</span><span class="white-text">%data%</span></li></a>';
 var HTMLblog = '<li class="flex-item"><span class="orange-text">blog</span><span class="white-text">%data%</span></li>';
-var HTMLlocation = '<li class="flex-item"><span class="orange-text">location</span><span class="white-text">%data%</span></li>';
+var HTMLlocation = '<a href="https://goo.gl/maps/xj43k7n7yA72"><li class="flex-item"><span class="orange-text">location</span><span class="white-text">%data%</span></li>';
 
 var HTMLbioPic = '<img src="%data%" class="biopic">';
 var HTMLwelcomeMsg = '<span class="welcome-message">%data%</span>';
@@ -40,7 +40,7 @@ var HTMLprojectStart = '<div class="project-entry"></div>';
 var HTMLprojectTitle = '<a href="#">%data%</a>';
 var HTMLprojectDates = '<div class="date-text">%data%</div>';
 var HTMLprojectDescription = '<p><br>%data%</p>';
-var HTMLprojectImage = '<img src="%data%">';
+var HTMLprojectImage = '<img src="%data%"><hr>';
 
 var HTMLschoolStart = '<div class="education-entry"></div>';
 var HTMLschoolName = '<a class="school" href="https://narfu.ru/en/">%data%';

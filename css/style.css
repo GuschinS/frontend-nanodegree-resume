@@ -165,7 +165,7 @@ ul {
   float: left;
   padding: 10px;
   width: 200px;
-  display: none;
+/*  display: none;*/
 }
 
 img {
@@ -199,8 +199,11 @@ span {
     margin-top: 10%;
   }
   .biopic {
-    width: 150px;
+    width: 120px;
   }
+    h1#name {
+        font-size: 20px;
+    }
   .welcome-message {
     display: none;
   }
