@@ -51,7 +51,7 @@ var HTMLschoolMajor = '<em><br>Major: %data%</em>';
 var HTMLschoolURL = '<br><a href="https://narfu.ru/en/">%data%</a>';
 
 var HTMLonlineClasses = '<h2>Online Classes</h2><div class="online-classes"></div>';
-var HTMLonlineTitle = '<a class="online" href="https://www.udacity.com">%data%';
+var HTMLonlineTitle = '<a class="online" href="https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011">%data%';
 var HTMLonlineSchool = ' - %data%</a>';
 var HTMLonlineDates = '<div class="date-text">%data%</div>';
 var HTMLonlineURL = '<br><a href="https://www.udacity.com">%data%</a>';
