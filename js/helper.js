@@ -50,7 +50,7 @@ var HTMLschoolLocation = '<div class="location-text">%data%</div>';
 var HTMLschoolMajor = '<em><br>Major: %data%</em>';
 var HTMLschoolURL = '<br><a href="https://narfu.ru/en/">%data%</a>';
 
-var HTMLonlineClasses = '<h3>Online Classes</h3><div class="online-classes"></div>';
+var HTMLonlineClasses = '<h2>Online Classes</h2><div class="online-classes"></div>';
 var HTMLonlineTitle = '<a class="online" href="https://www.udacity.com">%data%';
 var HTMLonlineSchool = ' - %data%</a>';
 var HTMLonlineDates = '<div class="date-text">%data%</div>';
