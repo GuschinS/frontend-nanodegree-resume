@@ -16,7 +16,7 @@ const bio = {
     "skills": ["Languages: JavaScript, HTML5, CSS3.",
               "Frameworks/library: jQuery, Angular, React, Ember, Bootstrap, Grunt.",
               "Other: Git/GitHub, AJAX, Brackets.",
-	      "Microsoft Azure"],
+	      "Microsoft Azure."],
     "biopic": "images/new_photo.jpg"
 };
 
