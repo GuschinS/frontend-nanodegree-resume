@@ -153,33 +153,40 @@ const projects = {
         {
             "title": "Memory game",
             "dates": "2017",
-            "description": "Dependencies <br>I create this game using my own dom methods to keep the code clean. It does not depend on third-party libraries. No more jQuery and Boostrap. Just HTML, CSS and JavaScript! I find that the new Udacity courses on ES6 are amazing! <br>Instructions <br>The game is built using simple HTML, CSS and JavaScript. Click on the map to open it. Maps will be flipped if the next card does not match the open one. Your score will depend on the moves taken to open all the cards. The less moves, the better. <a href='https://guschins.github.io/fend-project-memory-game/'>Playing</a> <a href='https://github.com/GuschinS/fend-project-memory-game'>See code</a>",
+            "description": "Dependencies <br>I create this game using my own dom methods to keep the code clean. It does not depend on third-party libraries. No more jQuery and Boostrap. Just HTML, CSS and JavaScript! I find that the new Udacity courses on ES6 are amazing! <br>Instructions <br>The game is built using simple HTML, CSS and JavaScript. Click on the map to open it. Maps will be flipped if the next card does not match the open one. Your score will depend on the moves taken to open all the cards. The less moves, the better. <a href='https://guschins.github.io/fend-project-memory-game/' target='blank'>Playing</a> <a href='https://github.com/GuschinS/fend-project-memory-game target='blank''>See code</a>",
             "images": "images/gm1_198x204.png"
 		},
         {
             "title": "MyReads Project",
             "dates": "2018",
-            "description": "This is myreads web project for Udacity FEWD Nanodegree. The bookshelf application allows you to select and classify the books you have read, are currently reading or want to read.<br>To run locally:<br>git clone https://github.com/GuschinS/reactnd-project-myreads.git<br>cd reactnd-project-myreads<br>npm install<br>npm start<br><a href='https://github.com/GuschinS/reactnd-project-myreads'>See code</a>",
+            "description": "This is myreads web project for Udacity FEWD Nanodegree. The bookshelf application allows you to select and classify the books you have read, are currently reading or want to read.<br>To run locally:<br>git clone https://github.com/GuschinS/reactnd-project-myreads.git<br>cd reactnd-project-myreads<br>npm install<br>npm start<br><a href='https://github.com/GuschinS/reactnd-project-myreads' target='blank'>See code</a>",
             "images": "images/MyReads_small.png"
 		},
         {
             "title": "Pixel Art Maker",
             "dates": "2018",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem.<a href='https://guschins.github.io/project-pixel-art-maker/'>Playing</a> <a href='https://github.com/GuschinS/project-pixel-art-maker'>See code</a>",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem.<a href='https://guschins.github.io/project-pixel-art-maker/' target='blank'>Playing</a> <a href='https://github.com/GuschinS/project-pixel-art-maker' target='blank'>See code</a>",
             "images": "images/pam1_198x206.png"
 		},
         {
             "title": "Restaurant Reviews",
             "dates": "2018",
-            "description": "<br>To run locally:<br>In a terminal, check the version of Python you have: python -V.<br>If you have Python 2.x, spin up the server with: python -m SimpleHTTPServer 8000 (or some other port, if port 8000 is already in use.)<br>For Python 3.x, you can use: python -m http.server.<br>If you don't have Python installed, navigate to Python's website to download and install the software.<br>With your server running, visit the site: http://localhost:8000<br><a href='https://github.com/GuschinS/restaurant-udacity-stg1'>See code</a>",
+            "description": "<br>To run locally:<br>In a terminal, check the version of Python you have: python -V.<br>If you have Python 2.x, spin up the server with: python -m SimpleHTTPServer 8000 (or some other port, if port 8000 is already in use.)<br>For Python 3.x, you can use: python -m http.server.<br>If you don't have Python installed, navigate to Python's website to download and install the software.<br>With your server running, visit the site: http://localhost:8000<br><a href='https://github.com/GuschinS/restaurant-udacity-stg1' target='blank'>See code</a>",
             "images": "images/rr_small.png"
 		},
         {
             "title": "Classic Arcade Game Clone",
             "dates": "2018",
-            "description": "Instructions <br>The player must go to the top, avoiding a collision with the bugs. In a collision, the player loses 1 life. 3 collisions - the end of the game. When a player reaches the top, he gets 10 points and returns to the starting position. Each time, the speed of beetles increases. <a href='https://guschins.github.io/frontend-nanodegree-arcade-game/'>Playing</a> <a href='https://github.com/GuschinS/frontend-nanodegree-arcade-game/tree/master'>See code</a>",
+            "description": "Instructions <br>The player must go to the top, avoiding a collision with the bugs. In a collision, the player loses 1 life. 3 collisions - the end of the game. When a player reaches the top, he gets 10 points and returns to the starting position. Each time, the speed of beetles increases. <a href='https://guschins.github.io/frontend-nanodegree-arcade-game/' target='blank'>Playing</a> <a href='https://github.com/GuschinS/frontend-nanodegree-arcade-game/tree/master' target='blank'>See code</a>",
             "images": "images/ag_small.png"
+		},
+        {
+            "title": "This project uses API restcountries",
+            "dates": "2022",
+            "description": "Instructions <br>Run ng serve for a dev server. Navigate to http://localhost:4200/. The application will automatically reload if you change any of the source files. <a href='https://guschins.github.io/gwo/' target='blank'>Demo</a> <a href='https://github.com/GuschinS/gwo' target='blank'>See code</a>",
+            "images": "images/angular_gwo_small.png"
 		}
+
 
 	]
 };
