@@ -14,9 +14,8 @@ const bio = {
     },
     "welcomeMessage": "Hello I'm Sergei and I am a Front-End Web Developer",
     "skills": ["Languages: JavaScript, HTML5, CSS3.",
-              "Frameworks/library: jQuery, Angular, React, Ember, Bootstrap, Grunt.",
-              "Other: Git/GitHub, AJAX, Brackets.",
-	      "Microsoft Azure."],
+              "Frameworks: Angular, React.",
+              "Other: Git/GitHub."],
     "biopic": "images/new_photo.jpg"
 };
 
@@ -57,22 +56,24 @@ const work = {
             "title": "Front-End Web Developer",
             "location": "Gdansk, Poland",
             "dates": "2018",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem."
-		},
-        {
-            "employer": "OMNISystem",
-            "title": "Business owner",
-            "location": "Warszawa, Poland",
-            "dates": "2014",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem."
-		},
-        {
-            "employer": "SMARTGLONASS Ltd.",
-            "title": "Business owner",
-            "location": "Kotlas, Rusia",
-            "dates": "2012",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem."
-		}
+            "description": ""
+            // "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem."
+            
+        },
+        // {
+        //     "employer": "OMNISystem",
+        //     "title": "Business owner",
+        //     "location": "Warszawa, Poland",
+        //     "dates": "2014",
+        //     "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem."
+		// },
+        // {
+        //     "employer": "SMARTGLONASS Ltd.",
+        //     "title": "Business owner",
+        //     "location": "Kotlas, Rusia",
+        //     "dates": "2012",
+        //     "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, unde eligendi ullam eos soluta molestias neque error, illum ea corporis quas vero facilis aliquam assumenda dolorum fugit enim libero hic temporibus veritatis eveniet voluptate quibusdam vitae voluptates modi. Ipsa et porro, aspernatur soluta omnis eveniet a facilis praesentium explicabo autem."
+		// }
 			]
 };
 
