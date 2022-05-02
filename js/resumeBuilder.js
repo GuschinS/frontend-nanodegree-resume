@@ -152,10 +152,10 @@ education.display = function () {
 const projects = {
     "projects": [
         {
-            "title": "Memory game",
-            "dates": "2017",
-            "description": "Dependencies <br>I create this game using my own dom methods to keep the code clean. It does not depend on third-party libraries. No more jQuery and Boostrap. Just HTML, CSS and JavaScript! I find that the new Udacity courses on ES6 are amazing! <br>Instructions <br>The game is built using simple HTML, CSS and JavaScript. Click on the map to open it. Maps will be flipped if the next card does not match the open one. Your score will depend on the moves taken to open all the cards. The less moves, the better. <a href='https://guschins.github.io/fend-project-memory-game/' target='blank'>Playing</a> <a href='https://github.com/GuschinS/fend-project-memory-game target='blank''>See code</a>",
-            "images": "images/gm1_198x204.png"
+            "title": "This project uses API restcountries",
+            "dates": "2022",
+            "description": "Instructions <br>Run ng serve for a dev server. Navigate to http://localhost:4200/. The application will automatically reload if you change any of the source files. <a href='https://guschins.github.io/gwo/' target='blank'>Demo</a> <a href='https://github.com/GuschinS/gwo' target='blank'>See code</a>",
+            "images": "images/angular_gwo_small.png"
 		},
         {
             "title": "MyReads Project",
@@ -182,13 +182,11 @@ const projects = {
             "images": "images/ag_small.png"
 		},
         {
-            "title": "This project uses API restcountries",
-            "dates": "2022",
-            "description": "Instructions <br>Run ng serve for a dev server. Navigate to http://localhost:4200/. The application will automatically reload if you change any of the source files. <a href='https://guschins.github.io/gwo/' target='blank'>Demo</a> <a href='https://github.com/GuschinS/gwo' target='blank'>See code</a>",
-            "images": "images/angular_gwo_small.png"
+            "title": "Memory game",
+            "dates": "2017",
+            "description": "Dependencies <br>I create this game using my own dom methods to keep the code clean. It does not depend on third-party libraries. No more jQuery and Boostrap. Just HTML, CSS and JavaScript! I find that the new Udacity courses on ES6 are amazing! <br>Instructions <br>The game is built using simple HTML, CSS and JavaScript. Click on the map to open it. Maps will be flipped if the next card does not match the open one. Your score will depend on the moves taken to open all the cards. The less moves, the better. <a href='https://guschins.github.io/fend-project-memory-game/' target='blank'>Playing</a> <a href='https://github.com/GuschinS/fend-project-memory-game target='blank''>See code</a>",
+            "images": "images/gm1_198x204.png"
 		}
-
-
 	]
 };
 
