@@ -6,7 +6,7 @@ const bio = {
     "name": "Sergei Gushchin",
     "role": "Front-End Web Developer",
     "contacts": {
-        "mobile": "+48 797-807-995",
+        "mobile": "+48 797 807 995",
         "email": "guschins@gmail.com",
         "github": "GuschinS",
         "linkedin": "guschins",
