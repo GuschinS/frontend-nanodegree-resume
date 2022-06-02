@@ -4,9 +4,9 @@ This is empty on purpose! Your code to build the resume will go here.
 
 const bio = {
     "name": "Sergei Gushchin",
-    "role": "Front-End Developer",
+    "role": "Front-End Web Developer",
     "contacts": {
-        "mobile": "797-807-995",
+        "mobile": "+48 797-807-995",
         "email": "guschins@gmail.com",
         "github": "GuschinS",
         "linkedin": "guschins",
