@@ -16,7 +16,7 @@ var HTMLheaderName = '<h1 id="name">%data%</h1>';
 var HTMLheaderRole = '<span>%data%</span><hr>';
 
 var HTMLcontactGeneric = '<li class="flex-item"><span class="orange-text">%contact%</span><span class="white-text">%data%</span></li>';
-var HTMLmobile = '<a href="tel:+48797807995"><li class="flex-item"><span class="orange-text">mobile</span><span class="white-text">%data%</span></li></a>';
+var HTMLmobile = '<a href="tel:+48797807995"><li class="flex-item"><span class="orange-text">phone</span><span class="white-text">%data%</span></li></a>';
 var HTMLemail = '<a href="mailto:guschins@gmail.com"><li class="flex-item"><span class="orange-text">email</span><span class="white-text">%data%</span></li></a>';
 var HTMLlinkedin = '<a href="https://www.linkedin.com/in/sergei-gushchin/"><li class="flex-item"><span class="orange-text">linkedin</span><span class="white-text">%data%</span></li>';
 var HTMLgithub = '<a href="https://github.com/GuschinS"><li class="flex-item"><span class="orange-text">github</span><span class="white-text">%data%</span></li></a>';
